@@ -1,0 +1,15 @@
+{
+  "name": "solace-express-app",
+  "version": "1.0.0",
+  "description": "Sample Application to Relay REST requests to Solace",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3",
+    "solclientjs": "^10.15.0"
+  }
+}
